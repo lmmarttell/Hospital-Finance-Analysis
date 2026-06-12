@@ -27,9 +27,12 @@ This project analyzes hospital financial performance using Excel, SQL, and Table
 - HealthcareRevenue Dashboard.png
 
 ## Key Insights
-- Identified top revenue-generating departments.
-- Analyzed treatment costs and revenue trends.
-- Visualized financial performance through Tableau dashboards.
+
+- Total hospital charges reached $19M across 1,487 patients.
+- Total payments collected were $10.82M, resulting in a 56.2% collection rate.
+- Outstanding Accounts Receivable totaled $8.45M, indicating opportunities to improve collections.
+- The Emergency Department generated the highest charges at approximately $3.1M.
+- UnitedHealthcare was the largest insurance payer by total charges.
 
 ## Dashboard Preview
 ![Healthcare Revenue Dashboard](HealthcareRevenue%20Dashboard.png)
