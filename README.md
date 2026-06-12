@@ -32,4 +32,4 @@ This project analyzes hospital financial performance using Excel, SQL, and Table
 - Visualized financial performance through Tableau dashboards.
 
 ## Dashboard Preview
-(Insert screenshot here)
+![Healthcare Revenue Dashboard](HealthcareRevenue%20Dashboard.png)
