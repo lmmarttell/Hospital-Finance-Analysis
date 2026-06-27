@@ -337,6 +337,3 @@ Full methodology and detailed calculations are documented in the SQL query file.
 
 This project is open-source under the MIT License. Feel free to use for learning purposes.
 
-
-
-
